@@ -69,5 +69,4 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atikaanjum&show_icons=true&locale=en&layout=compact&hide=html,css,bootstrap,jupyter&langs_count=6" alt="atikaanjum" /></p>
 
