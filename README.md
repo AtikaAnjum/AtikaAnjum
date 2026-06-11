@@ -11,8 +11,6 @@ src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
   />
 </p>
 
----
-
 - 🔭 I’m currently working on **My Final Year Project**
 - 🌱 I’m currently learning **Automation & Artificial Intelligence**
 - 💬 Ask me about **Machine Learning, Deep Learning & AI**
