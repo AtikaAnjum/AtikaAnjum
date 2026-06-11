@@ -1,10 +1,13 @@
-@@ -1,73 +1,72 @@ 
+
 <h1 align="center">Hi 👋, I'm Atika Anjum</h1>
 <h3 align="center">A passionate AI/ML Engineer from Pakistan</h3>
 
 
 <img align="right" alt="Coding" width="400"
 src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+
+
+
 
 ---
 
@@ -13,6 +16,7 @@ src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 - 🌱 I’m currently learning **Automation**
 - 💬 Ask me about **AI and Machine Learning**
 - 📫 Reach me at **atikaanjum008@gmail.com**
+
 
 ---
 
@@ -23,6 +27,8 @@ src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
     height="30" width="40"/>
   </a>
 </p>
+
+
 
 ---
 
