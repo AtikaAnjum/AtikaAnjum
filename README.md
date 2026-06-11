@@ -3,12 +3,14 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 <h3 align="left">About Me</h3>
+
 - 🔭 I’m currently working on **My Final Year Project**
 - 🌱 I’m currently learning **Automation & Artificial Intelligence**
 - 💬 Ask me about **Machine Learning, Deep Learning & AI**
 - 📫 How to reach me **atikaanjum008@gmail.com**
 
----
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -85,4 +87,4 @@
 </a>
 </p>
 
----
+
