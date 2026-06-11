@@ -1,5 +1,6 @@
+@@ -1,73 +1,72 @@ 
 <h1 align="center">Hi 👋, I'm Atika Anjum</h1>
-<h3 align="center">A passionate AI/ML Engineer from Pakistan 🇵🇰</h3>
+<h3 align="center">A passionate AI/ML Engineer from Pakistan</h3>
 
 
 <img align="right" alt="Coding" width="400"
