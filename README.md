@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Atika Anjum</h1>
 <h3 align="center">A passionate AI/ML Engineer from Pakistan</h3>
+
+
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+
+
 
 <h3 align="left">About Me</h3>
 
-- 🔭 I’m currently working on **My Final Year Project**
+- 🎓 Graduated from COMSATS University Islamabad with a **BS in AI**.
 - 🌱 I’m currently learning **Automation & Artificial Intelligence**
 - 💬 Ask me about **Machine Learning, Deep Learning & AI**
 - 📫 How to reach me **atikaanjum008@gmail.com**
